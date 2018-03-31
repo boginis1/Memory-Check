@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "./img/australiandog.jpg"
+  },
+  {
+    "id": 2,
+    "image": "./img/boo.jpg"
+  },
+  {
+    "id": 3,
+    "image": "./img/boxerdog.jpg"
+  },
+  {
+    "id": 4,
+    "image": "./img/brownpup.jpg"
+   },
+  {
+    "id": 5,
+    "image": "./img/cutepup.jpg"
+  },
+  {
+    "id": 6,
+    "image": "./img/dalmation.jpg"
+  },
+  {
+    "id": 7,
+     "image": "./img/springer.jpg"
+  },
+  {
+    "id": 8,
+    "image": "./img/weiner.jpg"
+  },
+  {
+    "id": 9,
+    "image": "./img/yorkie.jpg"
+   }
+]
