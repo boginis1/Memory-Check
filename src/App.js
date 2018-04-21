@@ -25,7 +25,6 @@ class App extends Component {
         <Score>Memory Game</Score>
         {this.state.pups.map(pup => (
           <PupCard
-            shufflePup={this.shufflePup}
             id={pup.id}
             key={pup.id}
             image={pup.image}
